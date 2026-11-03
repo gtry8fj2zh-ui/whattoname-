@@ -11,8 +11,8 @@ display:
   perPage: 20
   leadStory: true
   leadMode: latest
-  dropCap: true
-  endMark: true
+  dropCap: false
+  endMark: false
   progressBar: true
   chapterPicker: true
   keyboardNav: true
